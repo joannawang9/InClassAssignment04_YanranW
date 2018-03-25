@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClassAssignment04_YanranW</string>
+    <string name="up_button">up</string>
+    <string name="down_button">down</string>
+    <string name="copy_button">copy</string>
+    <string name="double_button">double</string>
+    <string name="toast">Welcome!</string>
+</resources>
